@@ -1,0 +1,13 @@
+liste;operation;emplacement;duree
+chainee;ajout;debut;146600.0
+contigue;ajout;debut;70400.0
+chaineePL;ajout;debut;160600.0
+chainee;ajout;fin;324500.0
+contigue;ajout;fin;158600.0
+chaineePL;ajout;fin;149800.0
+chainee;suppression;debut;64300.0
+contigue;suppression;debut;54600.0
+chaineePL;suppression;debut;69300.0
+chainee;suppression;fin;21700.0
+contigue;suppression;fin;21800.0
+chaineePL;suppression;fin;35900.0
